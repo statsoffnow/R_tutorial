@@ -1,5 +1,0 @@
-ID  <-  c(1:10)
-time <-  rnorm(10, mean = 19.5, sd = 1.32)
-group <-  c(1,0,0,1,2,2,1,1,2,0))
-
-dataframe <- data.frame(ID, time, group)
